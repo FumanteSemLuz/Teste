@@ -13,7 +13,7 @@ html {
 }
 body {
     align-items: center;
-    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4  );
+    background: linear-gradient(320deg, #000000, #000000, #000000  );
     display: flex;
     font-family: 'Dosis', sans-serif;
     font-display: swap;
@@ -77,7 +77,7 @@ body {
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
     color: #fff;
-    background: #d72880;
+    background: #ff0000;
 }
 
 .calc-button:last-child:hover{
@@ -90,7 +90,7 @@ body {
 }
 
 .calc-button:active{
-    background-color: #ffef78;
+    background-color: #ff0000;
 }
 
 .double{
